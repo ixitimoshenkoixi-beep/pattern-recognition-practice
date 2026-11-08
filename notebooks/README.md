@@ -41,6 +41,6 @@
 ### Основні результати
 | Модель | Accuracy test | F1-macro test |
 |---|---:|---:|
-| DummyClassifier | <значення> | <значення> |
-| DecisionTree | <значення> | <значення> |
+| DummyClassifier | 0.333 | 0.167 |
+| DecisionTree | 0.933 | 0.933 |
 [Відкрити Notebook](notebooks/PR03_Прізвище_Імя.ipynb)
