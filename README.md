@@ -13,5 +13,8 @@
 - `.gitignore` – перелік файлів, які не додаються до Git.
 ## Практичні роботи
 1. Google Colab, GitHub і перше знайомство з даними.
+ [Відкрити Notebook](notebooks/PR01_Timoshenko_V.ipynb)
 2.  Дослідницький аналіз і підготовка даних.
+[Відкрити Notebook](notebooks/PR02_Timoshenko_Viacheslav.ipynb)  
 3. Перша модель і базове оцінювання якості.
+[Відкрити Notebook](notebooks/PR03_Timoshenko_Viacheslav.ipynb)
