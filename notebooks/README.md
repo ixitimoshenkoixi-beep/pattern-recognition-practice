@@ -43,4 +43,5 @@
 |---|---:|---:|
 | DummyClassifier | 0.333 | 0.167 |
 | DecisionTree | 0.933 | 0.933 |
+
 [Відкрити Notebook](notebooks/PR03_Timoshenko_Viacheslav.ipynb)
